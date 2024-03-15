@@ -13,5 +13,5 @@ elif intento<numero_secreto:
     print("el numero es mayor")
 
 elif intento>numero_secreto:
-    print("el numero es menor")
+    print("el numero es menor.")
 
